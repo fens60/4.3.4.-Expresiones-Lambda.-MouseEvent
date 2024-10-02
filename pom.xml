@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.ieslosmontecillos</groupId>
-    <artifactId>Expresiones_Lambda</artifactId>
+    <artifactId>MouseEvent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Expresiones_Lambda</name>
 
