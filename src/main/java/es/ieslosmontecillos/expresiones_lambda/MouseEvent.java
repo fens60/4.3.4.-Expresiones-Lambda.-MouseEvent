@@ -5,7 +5,10 @@ import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-
+/*
+ * @author: Shangfeng Shan
+ * @date:  ${date}
+ * */
 public class MouseEvent extends Application {
 
     @Override
